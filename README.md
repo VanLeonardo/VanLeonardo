@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanLeonardo
 - 👀 I’m interested in Programming
-- I know Python, HTML, CSS, and Basics of Lua and JS
+- I have experince in Python, HTML, CSS, SQL, and JSON. I also have basic experience in Lua, Java and JS.
 - 🌱 I’m currently learning Java
-- 📫 How to reach me atharva.ssonawane@gmail.com
+- 📫 Reach Out to me at: atharva.ssonawane@gmail.com
