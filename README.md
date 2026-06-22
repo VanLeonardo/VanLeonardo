@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @VanLeonardo
-  I have experince in Python, HTML, CSS, SQL, JSON, and Java. I also have basic experience in Lua and JS.
+- 👋 Hi, I’m @VanLeonardo, I have experince in Python, HTML, CSS, SQL, JSON, and Java. I also have basic experience in Lua and JS.
 - 🌱 I’m currently learning Godot
 - 📫 Reach Out to me at: atharva.ssonawane@gmail.com
